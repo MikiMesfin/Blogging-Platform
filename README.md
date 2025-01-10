@@ -27,7 +27,7 @@ A RESTful API for a blogging platform built with Django REST Framework. This API
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/MikiMesfin/Blogging-Platform)>
 cd blog_api
 ```
 
